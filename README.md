@@ -9,4 +9,5 @@ Instructions:
 2. log in
 3. `git clone https://github.com/dbwest/hellofriend && cd hellofriend`
 4. look at the files 
+
 ![files](./capture.PNG)
