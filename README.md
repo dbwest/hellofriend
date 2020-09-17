@@ -1,8 +1,8 @@
 # hellofriend
 
-App 0
+Project 0
 
-hello world Docker intro app for iLearn2020 course i20-T1-200 : Docker Awesome
+hello world Docker intro project for iLearn2020 course i20-T1-200 : Docker Awesome
 
 Instructions:
 1. go to labs.play-with-docker.com
