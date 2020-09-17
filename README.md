@@ -12,3 +12,4 @@ Instructions:
 ![files](./Capture.PNG?raw=true)
 5. build with `make`
 ![done](./Capture2.PNG?raw=true)
+6. if everyone in your breakout group saw the cow you are done
