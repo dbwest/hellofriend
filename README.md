@@ -11,3 +11,5 @@ Instructions:
 4. look at the files 
 
 ![files](./Capture.PNG?raw=true)
+
+5. build with `make`
