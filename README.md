@@ -9,7 +9,6 @@ Instructions:
 2. log in
 3. `git clone https://github.com/dbwest/hellofriend && cd hellofriend`
 4. look at the files 
-
 ![files](./Capture.PNG?raw=true)
-
 5. build with `make`
+![done](./Capture2.PNG?raw=true)
