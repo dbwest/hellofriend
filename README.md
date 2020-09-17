@@ -1,6 +1,6 @@
 # Project 0: "hellofriend"
 
-A hello-world-like Docker intro project for iLearn2020 course i20-T1-200 : Docker Awesome
+A Hello World Docker intro project for iLearn2020 course i20-T1-200 : Docker Awesome
 
 Instructions:
 1. go to labs.play-with-docker.com
