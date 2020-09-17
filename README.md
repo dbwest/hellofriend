@@ -10,4 +10,4 @@ Instructions:
 3. `git clone https://github.com/dbwest/hellofriend && cd hellofriend`
 4. look at the files 
 
-![files](./capture.PNG?raw=true)
+![files](./Capture.PNG?raw=true)
