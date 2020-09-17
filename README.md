@@ -9,4 +9,4 @@ Instructions:
 2. log in
 3. `git clone https://github.com/dbwest/hellofriend && cd hellofriend`
 4. look at the files 
-[files](https://ibb.co/wwyHvxh)
+![files](https://ibb.co/wwyHvxh)
